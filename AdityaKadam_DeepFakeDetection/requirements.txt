@@ -1,0 +1,9 @@
+tensorflow
+keras
+numpy
+matplotlib
+opencv-python
+pillow
+scikit-learn
+mtcnn
+kaggle

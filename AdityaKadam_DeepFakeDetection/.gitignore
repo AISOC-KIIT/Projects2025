@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+*.zip
+
+# Models
+*.h5
+
+# Kaggle credentials
+kaggle.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db

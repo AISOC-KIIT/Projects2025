@@ -1,0 +1,18 @@
+# Virtual environments
+myenv/
+venv/
+.env/
+
+# Python
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
